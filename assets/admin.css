@@ -1,0 +1,12 @@
+.wrap h1 {
+    margin-bottom: 20px;
+}
+
+.widefat td {
+    padding: 14px;
+    font-size: 14px;
+}
+
+.widefat th {
+    padding: 14px;
+}
